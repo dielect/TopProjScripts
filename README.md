@@ -14,7 +14,7 @@ Welcome to the *Popular Projects Deployment Scripts* repository! This repository
 To start using these deployment scripts, clone this repository to your server,I Will use ChatGPT-Next-Web as an example:
 
 ```bash
-curl -o script.sh https://raw.githubusercontent.com/dielect/TopProjScripts/main/AI/ChatGPT-Next-Web.sh
+wget https://raw.githubusercontent.com/dielect/TopProjScripts/main/AI/ChatGPT-Next-Web.sh
 
 chmod +x ChatGPT-Next-Web.sh
 
